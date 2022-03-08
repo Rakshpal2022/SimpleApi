@@ -13,6 +13,7 @@ namespace SimpleApi.tests
         {
         var ctr=objValueController.Get(1);
         Assert.Equal("Raksh Pal",ctr);
+        // Assert.Equal("Raksh Pal",ctr);
         }
     }
 }

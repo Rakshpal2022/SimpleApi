@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Azure\\Test\\SimpleApi.tests\\SimpleApi.tests.csproj": {}
+    "D:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj": {}
   },
   "projects": {
     "D:\\Azure\\SimpleApi\\SimpleApi.csproj": {
@@ -67,14 +67,14 @@
         }
       }
     },
-    "D:\\Azure\\Test\\SimpleApi.tests\\SimpleApi.tests.csproj": {
+    "D:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Azure\\Test\\SimpleApi.tests\\SimpleApi.tests.csproj",
-        "projectName": "SimpleApi.tests",
-        "projectPath": "D:\\Azure\\Test\\SimpleApi.tests\\SimpleApi.tests.csproj",
+        "projectUniqueName": "D:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj",
+        "projectName": "SimpleApi.Tests",
+        "projectPath": "D:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Azure\\Test\\SimpleApi.tests\\obj\\",
+        "outputPath": "D:\\Azure\\Test\\SimpleApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
